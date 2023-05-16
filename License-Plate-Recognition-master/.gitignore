@@ -1,0 +1,3 @@
+/LPRNet/data/test/*.jpg
+/LPRNet/data/train/*.jpg
+*.pyc
